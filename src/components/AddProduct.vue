@@ -63,6 +63,7 @@
 
     <div v-else>
       <h4>You submitted successfully!</h4>
+      <h1>Id: {{ this.product.id}}</h1>
       <h1>Title: {{ this.product.title}}</h1>
       <h2>Description: {{ this.product.description}}</h2>
       <h3>Price: {{ this.product.price }}</h3>
