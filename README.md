@@ -1,1 +1,8 @@
-# vuejs-crud
+instruction
+
+vue js crud
+
+
+npm install
+
+npm run serve
